@@ -8,7 +8,15 @@ Arrays, Linked Lists and Doubly Linked Lists all allow programmers to organize d
 
 In your response, make sure to compare the time complexities for insertion, removal, and random access (grabbing a particular known element by index/position) for each data structure as well as memory usage and ease of traversal.
 
+`Joshua`
+
 ### Response 1
+
+I would choose an array if I need fast random access, working with contiguous memory, and have mostly static data or frequent access by index.
+
+I would choose a singly linked list if I need frequent insertions/removals at the beginning or end and don't need backward traversal.
+
+And I would choose a doubly linked list when I need to move in both directions and frequently add or remove things in the middle.
 
 ## Prompt 2
 
@@ -17,6 +25,8 @@ Imagine you are developing a web browser's "back" button functionality. When a u
 Would you use a stack or a queue to implement this functionality?
 
 In your response, explain what a Stack/Queue is and why it would be best for this use case. Make sure that your response includes the terms LIFO or FIFO.
+
+`Felipe`
 
 ### Response 2
 
@@ -35,6 +45,7 @@ What is an Abstract Data Type and why are they worth learning about?
 ## Prompt 4
 
 A few classic problems involving a stack are the `isBalanced` and `isPalindrome` functions. Choose one of these functions and provide a solution to it along with a brief lesson explaining how it works.
+`Felipe`
 
 ### Response 4
 
